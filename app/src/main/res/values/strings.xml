@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Book Cipher</string>
+    <string name="ayush_jain">CREATED BY : Ayush Jain</string>
+    <string name="the_quick_brown_fox_jumps_over_the_lazy_dog">Reference Texts for the Cipher :\nThe quick brown fox jumps over the lazy dog\nAFTERSHOCK</string>
+    <string name="encode">ENCODE</string>
+    <string name="decode">DECODE</string>
+    <string name="text_to_encode">Text to ENCODE :</string>
+    <string name="text_to_decode">Text to DECODE :</string>
+    <string name="output">OUTPUT :</string>
+    <string name="clear">CLEAR</string>
+    <string name="book_cipher">BOOK CIPHER</string>
+    <string name="copy">COPY</string>
+</resources>
