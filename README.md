@@ -19,4 +19,4 @@ NOTE :
 3) Support for choosing between multiple reference text to be soon added.
 
 Click on the below link to download the apk file.
-Book Cipher - DOWNLOAD HERE
+https://drive.google.com/open?id=1Yhrzvv6opNOPD1Jbagswlgnws5B18o1A
