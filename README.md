@@ -17,3 +17,6 @@ NOTE :
     Special character support to be soon added.
 2) The output will be always given in capital letters.
 3) Support for choosing between multiple reference text to be soon added.
+
+Click on the below link to download the apk file.
+Book Cipher - DOWNLOAD HERE
